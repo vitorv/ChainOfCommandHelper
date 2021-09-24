@@ -16,4 +16,10 @@
         android:name="com.example.chainofcommandhelper.ui.rules.RulesFragment"
         android:label="@string/menu_rules"
         tools:layout="@layout/fragment_rules" />
+
+    <fragment
+        android:id="@+id/nav_tables"
+        android:name="com.example.chainofcommandhelper.ui.tables.TablesFragment"
+        android:label="@string/menu_tables"
+        tools:layout="@layout/fragment_tables" />
 </navigation>

@@ -10,7 +10,11 @@
             android:title="@string/menu_home" />
         <item
             android:id="@+id/nav_rules"
-            android:icon="@drawable/ic_menu_rules"
+            android:icon="@drawable/ic_menu_book"
             android:title="@string/menu_rules" />
+        <item
+            android:id="@+id/nav_tables"
+            android:icon="@drawable/ic_menu_list"
+            android:title="@string/menu_tables" />
     </group>
 </menu>

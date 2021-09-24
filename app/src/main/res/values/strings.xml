@@ -8,6 +8,31 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
     <string name="menu_rules">Rules</string>
+    <string name="menu_tables">Tables</string>
+
+    <string name="table1">Command Dice Results</string>
+    <string name="table2">Command Initiative</string>
+    <string name="table3">The Turn End</string>
+    <string name="table4">The Master Arsenal Table - Infantry Weapons</string>
+    <string name="table5">The Master Arsenal Table - Vehicle Weapons</string>
+    <string name="table6">Roll To Hit</string>
+    <string name="table7">Hit Effect</string>
+    <string name="table8">Hand-Held Anti-Tank Weapons - Germany</string>
+    <string name="table9">Hand-Held Anti-Tank Weapons - Britain And US</string>
+    <string name="table10">Hand-Held Anti-Tank Weapons - Soviet Union</string>
+    <string name="table11">Mortar Smoke Deployment</string>
+    <string name="table12">Off-Table Mortar Deviation</string>
+    <string name="table13">Vehicles In A Barrage</string>
+    <string name="table14">To Hit A Vehicle</string>
+    <string name="table15">Tanks, Armoured Cars, SP Guns</string>
+    <string name="table16">Tanks, Armoured Cars, SP Guns Continued</string>
+    <string name="table17">Halftracks And Carriers</string>
+    <string name="table18">Halftracks And Carriers Continued</string>
+    <string name="table19">Soft-Skins</string>
+    <string name="table20">Close Combat</string>
+    <string name="table21">Bad Things Happen</string>
+    <string name="table22">Force Morale Effect</string>
+    <string name="table23">Duplex Drive Tanks</string>
+    <string name="table24">Scenario Generation</string>
 </resources>
